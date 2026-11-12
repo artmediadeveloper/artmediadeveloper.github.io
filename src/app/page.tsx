@@ -110,6 +110,7 @@ const LogoBar = () => (
     <div className="flex items-center justify-between gap-6 flex-wrap opacity-70">
       {[
         { name: "HariBahagia.web.id", href: "https://haribahagia.web.id" },
+        { name: "Cashflow", href: "https://cashflow.artmediadeveloper.web.id" },
         { name: "Aplikasi Kehadiran", href: "https://github.com/dedyksuntoro/kehadiranmu" },
         { name: "API Aplikasi Kehadiran", href: "https://github.com/dedyksuntoro/api_kehadiranmu" },
         { name: "Capture Notifikasi", href: "https://pub.dev/packages/flutter_notification_sniffer" },
