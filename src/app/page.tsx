@@ -111,6 +111,7 @@ const LogoBar = () => (
       {[
         { name: "HariBahagia.web.id", href: "https://haribahagia.web.id" },
         { name: "Cashflow", href: "https://cashflow.artmediadeveloper.web.id" },
+        { name: "Qashierly", href: "https://qashierly.artmediadeveloper.web.id" },
         { name: "Aplikasi Kehadiran", href: "https://github.com/dedyksuntoro/kehadiranmu" },
         { name: "API Aplikasi Kehadiran", href: "https://github.com/dedyksuntoro/api_kehadiranmu" },
         { name: "Capture Notifikasi", href: "https://pub.dev/packages/flutter_notification_sniffer" },
